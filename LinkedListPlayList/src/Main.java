@@ -46,6 +46,8 @@ public class Main {
 //        albums.get(1).addToPlaylist(28, playList);
 
         play(playList);
+		
+		System.out.println("tdmtdm" + albums.get(0).getSongs().get(7));
 
 
     }
